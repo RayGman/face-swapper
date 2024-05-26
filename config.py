@@ -1,0 +1,2 @@
+AppFaceAnalysis = None
+Swaper = None

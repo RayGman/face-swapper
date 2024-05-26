@@ -3,8 +3,8 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KiranPranay/swapseed
-cd swapseed
+git clone https://github.com/RayGman/face-swapper
+cd face-swapper
 ```
 
 2. Install the required dependencies:
